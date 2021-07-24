@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on making Machine Learning
-- 📫 How to reach me? you can reach me 
+- 📫 How to reach me? you can reach me at <a href='https://www.linkedin.com/in/hendri-100'>linkedin </a>
 
 <!---
 hendri-27/hendri-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

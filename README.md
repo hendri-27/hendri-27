@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hendri-27
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on making Machine Learning
+- 👀 I’m interested in iOS Developer
+- 🌱 I’m currently learning iOS Environment
+- 💞️ I’m looking to collaborate on making iOS Project
 - 📫 How to reach me? you can reach me at <a href='https://www.linkedin.com/in/hendri-100'>linkedin </a>
 
 <!---

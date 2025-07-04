@@ -1,4 +1,4 @@
-## ***"Life your life wisely" -- hendri***
+## ***"Live your life wisely" -- hendri***
 
 ### Hendri Antonius -- @hendri-27
 

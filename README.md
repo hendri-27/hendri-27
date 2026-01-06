@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0ODBweCIgaGVpZ2h0PSI0ODBweCI+PHBhdGggZmlsbD0iIzAyODhEMSIgZD0iTTQyLDM3YzAsMi43NjItMi4yMzgsNS01LDVIMTFjLTIuNzYxLDAtNS0yLjIzOC01LTVWMTFjMC0yLjc2MiwyLjIzOS01LDUtNWgyNmMyLjc2MiwwLDUsMi4yMzgsNSw1VjM3eiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMiAxOUgxN1YzNkgxMnpNMTQuNDg1IDE3aC0uMDI4QzEyLjk2NSAxNyAxMiAxNS44ODggMTIgMTQuNDk5IDEyIDEzLjA4IDEyLjk5NSAxMiAxNC41MTQgMTJjMS41MjEgMCAyLjQ1OCAxLjA4IDIuNDg2IDIuNDk5QzE3IDE1Ljg4NyAxNi4wMzUgMTcgMTQuNDg1IDE3ek0zNiAzNmgtNXYtOS4wOTljMC0yLjE5OC0xLjIyNS0zLjY5OC0zLjE5Mi0zLjY5OC0xLjUwMSAwLTIuMzEzIDEuMDEyLTIuNzA3IDEuOTlDMjQuOTU3IDI1LjU0MyAyNSAyNi41MTEgMjUgMjd2OWgtNVYxOWg1djIuNjE2QzI1LjcyMSAyMC41IDI2Ljg1IDE5IDI5LjczOCAxOWMzLjU3OCAwIDYuMjYxIDIuMjUgNi4yNjEgNy4yNzRMMzYgMzYgMzYgMzZ6Ii8+PC9zdmc+&logoColor=white&link=https://www.linkedin.com/in/hendriantonius/)](https://www.linkedin.com/in/hendriantonius/)
 [![Github Followers](https://img.shields.io/github/followers/hendri-27?color=000000&label=Github%20Followers&style=for-the-badge)](https://github.com/hendri-27?tab=followers)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hendri-27&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=hendri-27&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![hendri-27's Codewars Stats](https://www.codewars.com/users/Hendri%20Antonius/badges/large)
 

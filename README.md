@@ -13,9 +13,3 @@
 [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=hendri-27&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![hendri-27's Codewars Stats](https://www.codewars.com/users/Hendri%20Antonius/badges/large)
-
-![hendri-27's Stats](https://github-readme-stats.vercel.app/api?username=hendri-27&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![hendri-27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hendri-27&theme=dark&hide_border=true)
-
-![hendri-27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendri-27&theme=dark&show_icons=true&hide_border=true&layout=compact)

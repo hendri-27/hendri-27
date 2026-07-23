@@ -2,7 +2,7 @@
 
 ### Hendri Antonius -- @hendri-27
 
-👋 Hi, I'm Hendri Antonius. I'm currently working as a Software Engineer at @McEasy. I also self employeed as Tech Lead to build a startup name @Merj. I'm mostly work on frontend things from React, VueJS, NextJS, Javascript.
+👋 Hi, I'm Hendri Antonius. I'm currently working as a Software Engineer at @McEasy. I'm mostly work on frontend things from React, VueJS, NextJS, Javascript.
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fhendri-27?color=blue&label=Hits&size=large)](https://myhits.vercel.app)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hendri_100)](https://www.instagram.com/hendri_100)
